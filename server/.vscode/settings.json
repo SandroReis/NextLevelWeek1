@@ -1,0 +1,23 @@
+{
+  "sqltools.connections": [
+    {
+      "database": "${workspaceFolder:server}/src/database/database.sqlite",
+      "driver": "SQLite",
+      "name": "NLW",
+      "previewLimit": 50
+    },
+    {
+      "database": "${workspaceFolder:server}/src/database/database.sqlite",
+      "driver": "SQLite",
+      "name": "teste",
+      "previewLimit": 50
+    },
+    {
+      "database": "${workspaceFolder:server}/src/database/database.sqlite",
+      "driver": "SQLite",
+      "name": "sasa",
+      "previewLimit": 50
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
